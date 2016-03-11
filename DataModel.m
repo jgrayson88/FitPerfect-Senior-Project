@@ -11,7 +11,7 @@
 #import "Challenges_FriendsDetailViewController.h"
 
 //url string to access webservices
-NSString* const BaseURLString = @"http://sidsachdev.com/webservices/";
+NSString* const BaseURLString = @"---";//add web server address here
 
 @implementation DataModel{
     
